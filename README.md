@@ -1,10 +1,15 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Udacity-programming-for-Data-Science-using-Python
+<img src="Image/Data_Science_with_Python_Project_3.jpg" width="1000">
 
-### Date created
+# Created by Pega Zarjam
+
+This repository contains project 3 for Udacity Programming For Data Science Using Python.
+
+## Date created
 Sunday 27/11/2022.
 
-### Project Title
-Posting my work for the Udacity Project 3 on GitHub
+## Project Title
+Posting my work on GitHub for the Udacity Project 3
 
 
 ### Description
