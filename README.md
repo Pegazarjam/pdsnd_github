@@ -1,4 +1,4 @@
-# Udacity-programming-for-Data-Science-using-Python
+# Udacity programming for Data Science using Python
 <img src="Image/Data_Science_with_Python_Project_3.jpg" width="1000">
 
 # Created by Pega Zarjam
