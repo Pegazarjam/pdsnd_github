@@ -6,7 +6,7 @@
 This repository contains project 3 for Udacity Programming For Data Science Using Python.
 
 ## Date created
-Sunday 27/11/2022.
+Sunday 30/11/2022.
 
 ## Project Title
 Posting my work on GitHub for the Udacity Project 3
@@ -15,6 +15,7 @@ Posting my work on GitHub for the Udacity Project 3
 ### Description
 This  project is  to  utilise Git and Github to refactor Project2 and perform the requested tasks. 
 
+This programming nanodegree consisted of three projects by which the learner will touch on SQL, Python and version control.
 
 ### Files used
 BikeShare_project3.ipynb, Git-keyterms, ReadME.md 
