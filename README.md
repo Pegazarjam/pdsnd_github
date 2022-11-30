@@ -15,6 +15,9 @@ Posting my work on GitHub for the Udacity Project 3
 ### Description
 This  project is  to  utilise Git and Github to refactor Project2 and perform the requested tasks. 
 
+## Python learning 
+
+This course was titled data science programming with Python and included SQL, Python  and version cotrol (Github) materials too.
 
 ### Files used
 BikeShare_project3.ipynb, Git-keyterms, ReadME.md 
